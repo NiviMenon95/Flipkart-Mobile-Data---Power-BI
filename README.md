@@ -16,7 +16,7 @@ This report helps identify market trends in mobile brands, pricing segments, mem
 ## 📁 Files
 
 - `Flipkart_Mobile_Market_Analysis.pbix` – Power BI file (dashboard).
-- `sample_data.csv` – 
+- `sample_data.csv` 
 - `images/dashboard_preview.png` – Screenshot of the dashboard
 
 - ## 🚀 How to Use
